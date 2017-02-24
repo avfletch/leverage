@@ -1,4 +1,5 @@
 {
+    "name": "prestige-digital/leverage",
     "autoload": {
         "psr-4": {
             "PrestigeDigital\\Leverage\\": "src"
